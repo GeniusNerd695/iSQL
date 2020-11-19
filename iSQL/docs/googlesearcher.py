@@ -10,5 +10,5 @@ def googlesrchers(filename,serchword,choice2):
 				typer.write(url+"\n")
 			cheaker(url,choice2)
 	except:
-		print(colored("You Brobaly banned from google :/ \n why you don't use broxychains\n anyway trying again","red"))
+		print(colored("You're Probably banned from google :/ \n why you don't use proxychains\n anyway trying again","red"))
 		pass
